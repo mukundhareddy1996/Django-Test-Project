@@ -1,4 +1,4 @@
 # Django-Test-Project
 
-This is my learnings in django and developing slowly.
+This is just to reflect my learnings in django.
 Not of much use for you 😊
